@@ -1,0 +1,25 @@
+
+
+h1{
+    text-align: center;
+
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.blog {
+    margin: auto;
+    width: 85%;
+    border: 10px solid gold;
+    padding: 5px;
+    font-family: Charter,Georgia,Times,Serif;
+    font-size: 1.1875rem;
+    line-height: 1.6;
+
+
+}
