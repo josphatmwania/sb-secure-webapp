@@ -21,7 +21,7 @@ When a user successfully logs in, they are redirected to the home page where the
 - Gradle 4+ or Maven 3.2+
 
 ### Setup
-- _`https://github.com/j23747/sb-secure-webapp`_
+- Git clone  _`https://github.com/j23747/sb-secure-webapp`_
 - cd to **sb-secure-webapp**
 - Run the project
 - Go to _**http://localhost:8080/**_ on your favorite browser.
