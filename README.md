@@ -36,7 +36,7 @@ When a user successfully logs in, they are redirected to the home page where the
 
 ### Contact
 
-Josphatmwania237@gmailcom
+_Josphatmwania237@gmailcom_
 
 ### License
 This project is MIT licensed.
